@@ -1,1 +1,5 @@
-puts "time.now"
+if true 
+  puts "Even!"
+else 
+  puts "Odd!"
+end 
